@@ -5,6 +5,6 @@ It's an interesting game by Javascript.
 
 ## Images:
 <br>
-![1](https://github.com/bardlur/Hangman_game/assets/138980378/1ec7b9b4-a19b-412a-a7fe-9b78f93d9f68)
-![2](https://github.com/bardlur/Hangman_game/assets/138980378/b2942c8b-b357-44ad-9974-47a74b3f4dc6)
-![3](https://github.com/bardlur/Hangman_game/assets/138980378/ad10ca68-c5b4-4ce0-b142-1166f2d0475b)
+![1](https://github.com/bardlur/Hangman_game/assets/138980378/ed200aef-31ab-4b6e-bcca-8f85ff82057d)
+![2](https://github.com/bardlur/Hangman_game/assets/138980378/0675c58f-000e-40c8-8ca0-305412fc8a24)
+![3](https://github.com/bardlur/Hangman_game/assets/138980378/6b4815d7-3caa-4c71-b2b1-03081741e965)
