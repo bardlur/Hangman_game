@@ -1,5 +1,6 @@
 # Hangman game
 It's an interesting game by Javascript.
+<br>
 <span>&#9679; Guess what word this is!</span>
 
 <br>
