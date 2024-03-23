@@ -1,5 +1,5 @@
 # Hangman game
-It's an interesting game by Javascript.
+<span>&#9679; It's an interesting game by Javascript.</span>
 <br>
 <span>&#9679; Guess what word this is!</span>
 
